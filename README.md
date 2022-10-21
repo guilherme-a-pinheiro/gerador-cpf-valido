@@ -1,7 +1,5 @@
 # Bem-vindo(a)
 
-![Main-img](./src/assets/imgs/main-img.PNG)
-
 Este projeto foi criado baseado no curso de JavaScript e TypeScript do Otávio Mirada.
 
 O código foi baseado no que fora ensinado durante o curso, destacando a parte de manipulação do projeto com o webpack.
